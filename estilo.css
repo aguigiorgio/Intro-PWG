@@ -1,0 +1,35 @@
+<style type="text/css">
+	*{
+		color:#565656;
+		font-family:'Roboto',Verdana;
+	}
+	body{
+		background: #ffffff;
+	}
+	.retraso-1{
+		-webkit-animation-delay:1s;
+		-moz-animation-delay:1s;
+		animation-delay:1s;
+	}
+	.retraso-15{
+		-webkit-animation-delay:1.5s;
+		-moz-animation-delay:1.5s;
+		animation-delay:1.5s;
+	}
+
+	.aviso{
+		display:block;
+		overflow: hidden;
+		padding: 5px;
+		height: auto;
+		width:650px;
+	}
+	.aviso {
+		background-color: #d8ecf7;
+		border: 1px solid #afcde3;
+		border-radius:10px;
+	}
+	
+	}
+	}
+	</style>
